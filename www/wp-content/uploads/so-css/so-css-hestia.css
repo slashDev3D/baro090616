@@ -1,0 +1,7 @@
+#kboard-default-latest table th {
+    padding: 5px 0;
+    background-color: #ededed;
+    height: auto;
+    border: 0;
+    text-align: center;
+}
